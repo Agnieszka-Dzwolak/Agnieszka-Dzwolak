@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![gif](../Agnieszka-Dzwolak/img/gif_1.gif)
+![gif](./img/gif_1.gif)
 
 ```JSON
 {
@@ -19,4 +19,4 @@
 - _"Everyday life is like programming, I guess. If you love something, you can
   put beauty into it"_ – Donald Knuth
 
-![snake-game](../Agnieszka-Dzwolak/img/snake-game.svg)
+![snake-game](./img/snake-game.svg)
