@@ -13,7 +13,7 @@
   "hobbies": "traveling🌴", "cross-fit 💪", "ice-swimming ❄️🏊‍♀️", "food 🍔","singing in the shower 🚿🎤",
   "from": "Poland",
   "livingIn": "Brussels, Belgium",
-  "languages": "english", "french", "polish",
+  "languages": "english", "french", "polish"
 }
 ```
 
