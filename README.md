@@ -9,11 +9,11 @@
 {
   "firstName": "Agnieszka",
   "lastName": "Dzwolak",
-  "designSkills": "HTML5, CSS3, JavaScript, React",
-  "hobbies": "traveling🌴", "cross-fit 💪", "ice-swimming ❄️🏊‍♀️", "food 🍔","singing in the shower 🚿🎤",
+  "designSkills": ["HTML5, CSS3, JavaScript, React"],
+  "hobbies": ["traveling🌴", "cross-fit 💪", "ice-swimming ❄️🏊‍♀️", "food 🍔","singing in the shower 🚿🎤"],
   "from": "Poland",
   "livingIn": "Brussels, Belgium",
-  "languages": "english", "french", "polish"
+  "languages": ["english", "french", "polish"]
 }
 ```
 
