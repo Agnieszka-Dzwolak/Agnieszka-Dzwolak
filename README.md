@@ -1,19 +1,23 @@
-# Hello there, fellow `</coders>`! 👋
+# Hello there, fellow `<coders/>`! 👋
 
 > _"Everyday life is like programming, I guess. If you love something, you can
 > put beauty into it"_ – Donald Knuth
 
 ![gif](./img/gif_2.gif)
 
+Here's a little JSON snippet about me:
+
 ```JSON
 {
   "firstName": "Agnieszka",
   "lastName": "Dzwolak",
-  "designSkills": ["HTML5", "CSS3", "JavaScript", "React"],
-  "hobbies": ["traveling🌴", "cross-fit 💪", "ice-swimming ❄️🏊‍♀️", "food 🍔","singing in the shower 🚿🎤"],
+  "frontEndDevelopment": ["HTML5", "CSS3", "JavaScript", "React"],
+  "backEndDevelopment": ["Node.js", "Express.js"],
+  "databases": ["MongoDB", "MySQL"],
+  "hobbies": ["traveling🌴", "cross-fit 💪", "ice-swimming ❄️🏊‍♀️", "food 🍔"],
   "from": "Poland",
   "livingIn": "Brussels, Belgium",
-  "languages": ["english", "french", "polish"]
+  "languages": ["English", "French", "Polish"]
 }
 ```
 
